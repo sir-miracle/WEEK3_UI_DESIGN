@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WEET3_UI_DESIGN</string>
+    <string name="light_night_mode">light/night mode</string>
+    <string name="greeting">Good morning!</string>
+    <string name="message_button">MESSAGE</string>
+    <string name="user_name">Jane</string>
+    <string name="user_location">SAN FRANSCISCO, CA</string>
+    <string name="follow_button">FOLLOW ME</string>
+    <string name="see_more">SEE MORE</string>
 </resources>
